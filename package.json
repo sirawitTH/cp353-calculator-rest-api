@@ -1,0 +1,23 @@
+{
+  "name": "cp353-calculator-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirawitTH/cp353-calculator-rest-api.git"
+  },
+  "author": "Sirawit Tharana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirawitTH/cp353-calculator-rest-api/issues"
+  },
+  "homepage": "https://github.com/sirawitTH/cp353-calculator-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4"
+  }
+}
